@@ -1,6 +1,6 @@
 # n64-entry-point
 
-Este script de Python extrae el punto de entrada (entry point) de un archivo ROM de Nintendo 64 (.n64 o .z64).
+Este script de Python extrae el punto de entrada (entry point) de un archivo ROM de Nintendo 64 (.n64 o .z64 recomendado).
 
 ## Uso
 
